@@ -4,7 +4,7 @@ Source codes and report source materials for "Rust lang report" project.
 
 ## lnks folder
 
-Used for collection report source materials from the web
+Used for collecting report source materials from the web
 
 ## srcs folder
 
