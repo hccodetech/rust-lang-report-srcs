@@ -1,4 +1,4 @@
-# Rust lang report srcs (lnks)
+# lnks
 
 * Github (main source code repository)
   * [https://github.com/rust-lang/rust](https://github.com/rust-lang/rust)
